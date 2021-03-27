@@ -1,0 +1,57 @@
+*{
+    margin: 5px;
+    padding: 2px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    height: auto;
+}
+
+input{
+    width: 110px;
+}
+tbody{
+    background-color: #f0ecd2;
+}
+
+/*
+.check{
+ max-width: 10px;
+}
+*/
+
+.heading {
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+
+.p-head{
+    font-style: italic;
+}
+
+.p-head a{
+    color: orange;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;    
+}
+
+.asterisk{
+    color: red;
+}
+
+.radio{
+margin-left:10px;    
+
+}
+
+.p-bold{
+   font-weight:600;
+}
+
+.brackets{
+    color: #003fa3;
+    font-weight: 500;
+}
